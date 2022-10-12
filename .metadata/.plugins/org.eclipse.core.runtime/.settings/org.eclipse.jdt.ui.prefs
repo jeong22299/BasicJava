@@ -1,0 +1,29 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="chapter06.Member"><rhs name\="chapter06.Member"/></lhs><lhs name\="\uBCF5\uC2B5.Student"><rhs name\="\uBCF5\uC2B5.Student"/></lhs><lhs name\="chapter06.Printer"><rhs name\="chapter06.Printer"/></lhs><lhs name\="chapter06.package1.A"><rhs name\="chapter06.package1.A"/></lhs><lhs name\="chapter06.package1.Time"><rhs name\="chapter06.package1.Time"/></lhs><lhs name\="chapter07.Cellphone"><rhs name\="chapter07.DmbCellPhone"/></lhs><lhs name\="chapter07.DmbCellPhone"><rhs name\="chapter07.DmbCellPhone"/></lhs><lhs name\="chapter07.Student"><rhs name\="chapter07.Student"/></lhs><lhs name\="chapter07.Exercise.Shape"><rhs name\="chapter07.Exercise.Triangle"/><rhs name\="chapter07.Exercise.Rectangle"/></lhs><lhs name\="chapter07.Exercise.BankAccount"><rhs name\="chapter07.Exercise.BankAccount"/></lhs><lhs name\="\uBCF5\uC2B5.BankAccount"><rhs name\="\uBCF5\uC2B5.BankAccount"/></lhs><lhs name\="chapter08.RemoteControl"><rhs name\="chapter08.Television"/><rhs name\="chapter08.Audio"/></lhs><lhs name\="chapter08.DataAcceseObject"><rhs name\="chapter08.MySqlDao"/></lhs><lhs name\="chapter08.Exercise.Book"><rhs name\="chapter08.Exercise.Novel"/><rhs name\="chapter08.Exercise.Poet"/><rhs name\="chapter08.Exercise.ScienceFiction"/></lhs><lhs name\="chapter09.Button$OnclickListener"><rhs name\="chapter09.CallListener"/><rhs name\="chapter09.MessageListener"/></lhs><lhs name\="chapter10.BankAccount"><rhs name\="chapter10.CheckingAccount"/></lhs><lhs name\="chapter10.CheckingAccount"><rhs name\="chapter10.CheckingAccount"/></lhs><lhs name\="java.lang.CharSequence"><rhs name\="java.lang.String"/></lhs><lhs name\="chapter13.Board"><rhs name\="chapter13.Board"/></lhs><lhs name\="chapter13.Example.Student"><rhs name\="chapter13.Example.Student"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.sql.Driver"><rhs name\="oracle.jdbc.driver.OracleDriver"/></lhs><lhs name\="chapter20.memo.MemoDAO"><rhs name\="chapter20.memo.MemoDAO"/></lhs><lhs name\="chapter20.memo.MemoVO"><rhs name\="chapter20.memo.MemoVO"/></lhs><lhs name\="join.MemberVO"><rhs name\="join.MemberVO"/></lhs><lhs name\="Sign.SignDao"><rhs name\="Sign.SignDao"/></lhs><lhs name\="Sign.SignController"><rhs name\="Sign.SignController"/></lhs><lhs name\="group3.book.BookVO"><rhs name\="group3.book.BookVO"/></lhs><lhs name\="group3.borrow.BorrowService"><rhs name\="group3.borrow.BorrowService"/></lhs><lhs name\="group3.borrow.BorrowVO"><rhs name\="group3.borrow.BorrowVO"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+java_comment_task_tag=255,0,128
+java_doc_keyword=128,128,255
+java_keyword=255,0,128
+java_keyword_return=128,0,0
+java_multi_line_comment=0,128,128
+java_single_line_comment=0,128,128
+java_string=128,0,255
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+semanticHighlighting.localVariable.color=255,128,0
+semanticHighlighting.localVariableDeclaration.bold=false
+semanticHighlighting.localVariableDeclaration.color=236,112,19
+semanticHighlighting.localVariableDeclaration.enabled=true
+semanticHighlighting.method.enabled=true
+semanticHighlighting.number.enabled=true
+semanticHighlighting.parameterVariable.color=255,128,0
+semanticHighlighting.parameterVariable.enabled=true
+semanticHighlighting.typeParameter.color=255,128,0
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

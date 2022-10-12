@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/spring-beans-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/spring-core-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/spring-jdbc-5.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PC-12/eclipse-workspace/book/spring-tx-5.3.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="/Project1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
